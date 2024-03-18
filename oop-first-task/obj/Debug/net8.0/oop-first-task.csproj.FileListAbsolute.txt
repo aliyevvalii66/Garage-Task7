@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\oop-first-task\oop-first-task\bin\Debug\net8.0\oop-first-task.exe
+C:\Users\Admin\source\repos\oop-first-task\oop-first-task\bin\Debug\net8.0\oop-first-task.deps.json
+C:\Users\Admin\source\repos\oop-first-task\oop-first-task\bin\Debug\net8.0\oop-first-task.runtimeconfig.json
+C:\Users\Admin\source\repos\oop-first-task\oop-first-task\bin\Debug\net8.0\oop-first-task.dll
+C:\Users\Admin\source\repos\oop-first-task\oop-first-task\bin\Debug\net8.0\oop-first-task.pdb
+C:\Users\Admin\source\repos\oop-first-task\oop-first-task\obj\Debug\net8.0\oop-first-task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\oop-first-task\oop-first-task\obj\Debug\net8.0\oop-first-task.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\oop-first-task\oop-first-task\obj\Debug\net8.0\oop-first-task.AssemblyInfo.cs
+C:\Users\Admin\source\repos\oop-first-task\oop-first-task\obj\Debug\net8.0\oop-first-task.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\oop-first-task\oop-first-task\obj\Debug\net8.0\oop-first-task.dll
+C:\Users\Admin\source\repos\oop-first-task\oop-first-task\obj\Debug\net8.0\refint\oop-first-task.dll
+C:\Users\Admin\source\repos\oop-first-task\oop-first-task\obj\Debug\net8.0\oop-first-task.pdb
+C:\Users\Admin\source\repos\oop-first-task\oop-first-task\obj\Debug\net8.0\oop-first-task.genruntimeconfig.cache
+C:\Users\Admin\source\repos\oop-first-task\oop-first-task\obj\Debug\net8.0\ref\oop-first-task.dll
